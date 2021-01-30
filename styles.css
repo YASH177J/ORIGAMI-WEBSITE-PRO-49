@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+
+.menu{
+
+    display: flex;
+    justify-content: flex-end ;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.bodyImg{
+    display: flex;
+    justify-content: space-between;
+  
+  
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.origami{
+    border: black;
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
